@@ -17,7 +17,7 @@ This project was a collaborative effort involving three team members:
 
 1. Chandan Kumar ([ChandanKumar153](https://github.com/ChandanKumar153))
     - Role: Data Analysis and Visualization
-    - Contact: [](chandan.kr2004@outlook.com)
+    - Contact: [](Chandan.Kr.2004@outlook.com)
 
 2. Deepak Kumar
     - Role: Data Processing and Scripting
