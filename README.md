@@ -6,7 +6,7 @@ IMDb Data Analysis and Visualization Project
 This repository contains a data analysis and visualization project focused on IMDb ratings. The project aims to explore trends in movie ratings, analyze the impact of various factors such as runtime, genre, and release year on ratings, and identify popular genres over time.
 
 # To run this project locally, follow these steps:
-	1. git clone https://github.com/your-username/imdb-analysis.git
+	1. git clone https://github.com/ChandanKumar153/DAV_IMDB.git
 	2. pip install numpy pandas matplotlib 
 
 
