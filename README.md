@@ -17,7 +17,7 @@ This project was a collaborative effort involving three team members:
 
 1. Chandan Kumar ([ChandanKumar153](https://github.com/ChandanKumar153))
     - Role: Data Analysis and Visualization
-    - Contact: [](Chandan.Kr.2004@outlook.com)
+    - Contact: [Email](Chandan.Kr.2004@outlook.com)
 
 2. Deepak Kumar
     - Role: Data Processing and Scripting
@@ -25,6 +25,6 @@ This project was a collaborative effort involving three team members:
 
 3. Praveen Kumar
     - Role: Data Collection and Cleaning
-    - Contact: third.member@example.com
+    - Contact: 
 
 Please note that the third member does not have a GitHub ID.
