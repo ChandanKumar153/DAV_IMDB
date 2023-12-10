@@ -7,7 +7,7 @@ This repository contains a data analysis and visualization project focused on IM
 
 # To run this project locally, follow these steps:
 	1. git clone https://github.com/your-username/imdb-analysis.git
-	2. pip install numpy pandas matplotlib 
+	2. pip install numpy pandas matplotlib seaborn
 
 
 
