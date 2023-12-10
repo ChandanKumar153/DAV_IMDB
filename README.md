@@ -27,4 +27,3 @@ This project was a collaborative effort involving three team members:
     - Role: Data Collection and Cleaning
     - Contact: 
 
-Please note that the third member does not have a GitHub ID.
